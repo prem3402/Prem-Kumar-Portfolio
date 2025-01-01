@@ -8,8 +8,8 @@ const Experience = () => {
       location: "Bengaluru",
       duration: "06/2022 - PRESENT",
       details: [
-        "Spearheaded the design and implementation of Account Insights, enabling real-time recommendations, optimizing return on investment, and increasing user retention by 10%.",
-        "Led a team of 4 engineers and provided mentorship to junior developers, driving team development and ensuring successful project delivery."
+        "Developed an interactive data visualization website using Streamlit, improving user engagement by 40%, while streamlining data preprocessing pipelines with Python for a dataset of over 500,000 entries, and designing API validation protocols with Postman to ensure seamless integration of real-time data streams.",
+        "Coordinated with cross-functional teams to align project goals, reducing turnaround time by 25%, and optimized data processing workflows by automating tasks to minimize manual work and increase productivity."
       ],
       skills: [
         "Python",

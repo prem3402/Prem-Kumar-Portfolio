@@ -24,7 +24,7 @@ const Intro = () => {
         </div>
         <div className="w-full sm:w-max text-center mt-4 border-x-2 border-y-2 p-4 sm:p-5 rounded-md border-green motion-opacity-in-0 motion-translate-y-in-100 motion-blur-in-md motion-preset-confetti">
           <a
-            href="../public/assets/Resume_Prem_Kumar_S.pdf"
+            href="/assets/Resume_Prem_Kumar_S.pdf"
             download="Resume_Prem_Kumar_S.pdf"
             className="flex items-center justify-center text-green space-x-2"
           >
