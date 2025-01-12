@@ -14,8 +14,8 @@ const About = () => {
       <div className="flex flex-col md:flex-row items-center md:items-start justify-between gap-6 md:gap-8">
         <div className="w-full md:w-1/2">
           <p className="text-slate text-justify text-sm md:text-base lg:text-md font-semibold  md:text-justify ">
-            As a Software Developer Intern at NEC Corporation India Pvt Ltd, I
-            am actively contributing to innovative projects in the smart city
+            As a Software Engineer Intern at NEC Corporation India Pvt Ltd, I am
+            actively contributing to innovative projects in the smart city
             domain. My work focuses on designing and implementing solutions that
             enhance urban living by leveraging advanced technologies. I develop
             and test robust backend systems using Python, preprocess and analyze

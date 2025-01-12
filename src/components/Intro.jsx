@@ -15,7 +15,7 @@ const Intro = () => {
         </div>
         <div className="max-w-full sm:max-w-2xl mt-4 text-center text-slate motion-opacity-in-0 motion-translate-y-in-100 motion-blur-in-md pb-10 px-4 sm:px-0">
           <p className="font-semibold text-justify text-sm sm:text-base">
-            I'm a software engineer based in Bengaluru, India, passionate about
+            I'm a software Engineer based in Bengaluru, India, passionate about
             large-scale, high-impact products and deeply interested in Cloud
             Computing and DevOps. I thrive on designing and building innovative
             solutions that drive efficiency, scalability, and performance in

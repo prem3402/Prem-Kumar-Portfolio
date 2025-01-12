@@ -4,7 +4,7 @@ const Experience = () => {
   const experiences = [
     {
       company: "NEC Corporation India Pvt Ltd",
-      title: "Software Developer Intern",
+      title: "Software Engineer Intern",
       location: "Bengaluru",
       duration: "06/2022 - PRESENT",
       details: [
