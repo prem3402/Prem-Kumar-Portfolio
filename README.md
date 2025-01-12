@@ -1,4 +1,4 @@
-<h1 align="center"> Prem Kumar S protolio - v1 </h1>
+<h1 align="center"> Prem Kumar S portfolio - v1 </h1>
 <p align="center">The first iteration of <a href="https://prem-kumar.vercel.app/" target="_blank">Prem Kumar S Portfolio</a> buit with React.js and Tailwind CSS.</p>
 
 ## 🛠️ Installation & Setup
