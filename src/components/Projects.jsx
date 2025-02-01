@@ -42,7 +42,8 @@ const projects = [
     title: "Automated File Compression and Cloud Upload System Using Python",
     description:
       "A Python-based automation system that efficiently compresses files and uploads them to a local server or cloud storage, streamlining data management and ensuring secure and optimized file handling.",
-    tags: ["Python", "Automation", "File Compression", "Cloud Storage"]
+    tags: ["Python", "Automation", "File Compression", "Cloud Storage"],
+    link: "https://github.com/prem3402/Prem-Kumar-Portfolio"
   }
 ];
 
